@@ -1,6 +1,3 @@
-# Jeu_demineur_console
-jeu du demineur en console ecrit en python
-
 Bienvenu sur notre jeu du Dimineur en console !
 
 Note : 
@@ -12,7 +9,7 @@ Note :
 
 	- 	Les cases avec les B correspondent aux bombes"
 
-	* cet ajout à pour but de facilité les débutant à apprendre à jouer facilement le jeu
+	***** cet ajout à pour but de facilité les débutant à apprendre à jouer facilement le jeu *****
 
 Merciii!
 
